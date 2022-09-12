@@ -15,6 +15,7 @@ I am Haojia Wu, an Assistant Professor in the [Washington University School of M
 [![Julia Badge](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org)
 [![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![PHP Badge](https://img.shields.io/badge/PHP-ff9a03?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+![CSS Badge](https://img.shields.io/badge/CSS3-e90cf5?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](https://github.com/HaojiaWu/git-stats/blob/master/generated/overview.svg)
 ![](https://github.com/HaojiaWu/git-stats/blob/master/generated/languages.svg)
