@@ -2,9 +2,10 @@
 
 I am Haojia Wu, an Assistant Professor in the [Washington University School of Medicine in St. Louis](https://medicine.wustl.edu). I am using single cell omics techniques to study kidney diseases. To learn more about me, please visit my pages:
 
-[![Website Badge](https://img.shields.io/badge/website-f00008?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jiaworkspace.com)
+[![Website Badge](https://img.shields.io/badge/website-f00008?style=for-the-badge&logo=About.me&logoColor=white)](https://www.haojia-wu.com)
 [![Scholar Badge](https://t.co/RV6FlL8rKZ)](https://scholar.google.com/citations?user=8yG1PbkAAAAJ&hl=en)
 [![ORCID Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7866-2544)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-7176ff?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.haojia-wu.com/@haojiawu)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaojiaWu)
 
 
