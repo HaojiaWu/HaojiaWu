@@ -6,8 +6,6 @@ I am Haojia Wu, an Assistant Professor in the [Washington University School of M
 [![Scholar Badge](https://t.co/RV6FlL8rKZ)](https://scholar.google.com/citations?user=8yG1PbkAAAAJ&hl=en)
 [![ORCID Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7866-2544)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-7176ff?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.haojia-wu.com/@haojiawu)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HaojiaWu)
-
 
 ## ⚡ Languages
 
