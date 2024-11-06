@@ -2,7 +2,7 @@
 
 To learn more about me, please visit my pages:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-7176ff?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.haojia-wu.com/@haojiawu)
-
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/bluesky.haojia-wu.com)
 ## ⚡ Languages
 
 [![R Badge](https://img.shields.io/badge/R-4567ff?style=for-the-badge&logo=r&logoColor=white)](https://cran.r-project.org)
